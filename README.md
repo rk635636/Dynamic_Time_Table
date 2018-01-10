@@ -1,26 +1,16 @@
-<<<<<<< HEAD
-dynamicTimeTable
-================
 
 This is a simple implementation of Time Table Generation
 
 Instructions to use this project : 
 
-This project is configured in eclipse and is a simple implementation, I had done a webUI for this but somehow i have lost it
-
 1) Clone this repository.	
 	
-2) Import the project in Eclipse ( you can even copy the package into a new project if you use a different IDE / If import of Eclipse project doesnt work well with that IDE )
+2) Import the project in Eclipse 
 
 3) Set up your requirements in the ```'Initialization.java'``` class, which is very self explanatory 
 	
 4) Run the ```'TimeTableMain.java'``` file and you will see a ```'timetable.csv'``` file created in the Project Directory
 
-Cheers !
+5) For Database JDBC is used. For all database related operations make changes in JDBC/retrieve_data.java file.
 
-PS : Contributing back to this project will be appreciated, I have stopped working on this project and i would'nt be providing any support for this :)
-
-Good Luck !
-=======
-# Dynamic_Time_Table
->>>>>>> 1adc41980a9af9d075eca6ed4e7921b8db4b0f3f
+6) For UI Java Swing is used.
