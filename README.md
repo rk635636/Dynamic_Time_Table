@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dynamicTimeTable
 ================
 
@@ -20,3 +21,6 @@ Cheers !
 PS : Contributing back to this project will be appreciated, I have stopped working on this project and i would'nt be providing any support for this :)
 
 Good Luck !
+=======
+# Dynamic_Time_Table
+>>>>>>> 1adc41980a9af9d075eca6ed4e7921b8db4b0f3f
