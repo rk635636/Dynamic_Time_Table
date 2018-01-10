@@ -11,6 +11,6 @@ Instructions to use this project :
 	
 4) Run the ```'TimeTableMain.java'``` file and you will see a ```'timetable.csv'``` file created in the Project Directory
 
-5) For Database JDBC is used. For all database related operations make changes in JDBC/retrieve_data.java file.
+5) For Database JDBC is used. For all database related operations make changes in ```'JDBC/retrieve_data.java```' file.
 
 6) For UI Java Swing is used.
